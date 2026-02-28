@@ -9,4 +9,4 @@ You may say, "but **WHY** there are already alot of programming languages out th
 And you are probaly right, I just wanted to learn, create and use my own creation rather then others. But mostly it is just a learning project.
 
 #### Why name Naml
-Naml (نمل) is an Arabic word which means "ant", Ant is a small but powerfull creature of God, which is small but can carry weight upto x10-50 times it's body weight.
+Naml (نمل) is an Arabic word which means "ant", Ant is a small but powerfull creature of God, which is small but can carry weight upto **x10-50 times** it's body weight.
