@@ -1,6 +1,6 @@
 const std = @import("std");
 
-// Although this function looks imperative, it does not perform the build
+// although this function looks imperative, it does not perform the build
 // directly and instead it mutates the build graph (`b`) that will be then
 // executed by an external runner. The functions in `std.Build` implement a DSL
 // for defining build steps and express dependencies between them, allowing the
