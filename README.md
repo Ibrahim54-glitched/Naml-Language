@@ -10,3 +10,4 @@ And you are probaly right, I just wanted to learn, create and use my own creatio
 
 #### Why name Naml
 Naml (نمل) is an Arabic word which means "ant", Ant is a small but powerfull creature of God, which is small but can carry weight upto **x10-50 times** it's body weight.
+
